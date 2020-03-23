@@ -43,3 +43,5 @@ DIFF <key> <key ...> displays set difference of values in keys
 INTER <key> <key ...> displays set intersection of values in keys  
 UNION <key> <key ...> displays set union of values in keys  
 CARTPROD <key> <key ...> displays cartesian product of sets  
+
+All copyright and ownership of this scaffold belongs to the University of Sydney, Australia.
