@@ -1,0 +1,13 @@
+set a 1 3 b c
+set a 2 3 
+snapshot absolutely nothing
+snapshot
+get a 2 4 6 3
+get a
+set b
+get b
+listKeys 2 3 1 3 2 
+listKeys
+listEntries s r 3 2 e r 3 sf
+listEntries
+bye

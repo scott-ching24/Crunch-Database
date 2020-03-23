@@ -1,0 +1,10 @@
+set a 1 1 3 3 5 5 7 7 8 6 6
+len a
+uniq a
+get a
+set b 1 7 6 7 4 9 6
+sort b
+get b
+rev b
+get b
+bye

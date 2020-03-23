@@ -1,0 +1,10 @@
+set a 1 2
+snapshot
+set b 2 3
+set c 3 4
+snapshot
+set a 3 4
+checkout 1
+list snapshots
+list entries
+bye

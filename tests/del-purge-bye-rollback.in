@@ -1,0 +1,10 @@
+set a 1 2
+set b 2 3
+snapshot
+del b
+list entries
+purge a
+list entries
+rollback 1
+list entries
+bye

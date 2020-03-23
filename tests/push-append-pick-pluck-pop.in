@@ -1,0 +1,11 @@
+set a 1
+append a 2 3
+set b 1
+push b 2 3
+pick b 2
+get b
+pluck b 2
+get b
+pop b
+get b
+bye

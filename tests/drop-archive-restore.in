@@ -1,0 +1,15 @@
+set a 1 2
+set b 2 3
+snapshot
+set c 3 4
+set d 5 6
+snapshot
+archive 1 "backup.txt"
+drop 1
+list snapshots
+purge a
+purge b
+restore "backup.txt"
+list entries
+list snapshots
+bye

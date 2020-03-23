@@ -1,0 +1,9 @@
+min a
+max a
+sum a
+set a 1 2 5 4 3 8 6 7 5
+min a
+max a
+sum a 
+get a
+bye
